@@ -22,18 +22,18 @@ forecasting_model_xboost.ipynb	Machine Learning Sales Forecasting with XGBoost
   Machine Learning Model using XGBoost with Predictive Insights
   Clean, Interactive Visualizations with Plotly
 
-#💡 Technologies Used
+# 💡 Technologies Used
 Python | Streamlit | Pandas | Plotly | Scikit-learn | XGBoost | Jupyter Notebook
 
-#🔥 Why This Project Stands Out
+# 🔥 Why This Project Stands Out
   Combines Real-time Dashboards, Data Visualization & Forecasting in One Solution
   End-to-End Data Analytics Pipeline: From Raw Data to Business Insights
   Hands-on Machine Learning Implementation for Practical Forecasting
   Recruiter & Portfolio Friendly: Ready-to-open HTML & Web App
 
 
-✅ Quick Preview
-💻 Interactive Dashboard — Run with Streamlit
+# 💻Quick Preview
+ Interactive Dashboard — Run with Streamlit
 📂 HTML Reports — View insights without setup
 📈 Machine Learning Forecast — Predict future sales
 📊 Complete Business Analysis — Understand key trends
