@@ -33,8 +33,8 @@ Python | Streamlit | Pandas | Plotly | Scikit-learn | XGBoost | Jupyter Notebook
 
 
 # 💻Quick Preview
- Interactive Dashboard — Run with Streamlit
-📂 HTML Reports — View insights without setup
-📈 Machine Learning Forecast — Predict future sales
-📊 Complete Business Analysis — Understand key trends
+ Interactive Dashboard — Run with Streamlit<br>
+📂 HTML Reports — View insights without setup<br>
+📈 Machine Learning Forecast — Predict future sales<br>
+📊 Complete Business Analysis — Understand key trends<br>
 
