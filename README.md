@@ -33,6 +33,27 @@ Python | Streamlit | Pandas | Plotly | Scikit-learn | XGBoost | Jupyter Notebook
   Hands-on Machine Learning Implementation for Practical Forecasting<br>
   Recruiter & Portfolio Friendly: Ready-to-open HTML & Web App<br>
 
+## How to Run the Project
+
+### Run the Streamlit Interactive Dashboard
+```bash
+pip install streamlit pandas plotly
+streamlit run sales_forecasting_dashboard.py
+```
+Visit `http://localhost:8501` in your browser.
+
+### Open the Business Analysis Notebook (HTML)
+[Download and Open Notebook](./sales_forcasting.html)  
+⚠️ GitHub may not preview this large file. Please download and open locally.  
+
+### Run the XGBoost Forecasting Notebook
+```bash
+pip install notebook pandas xgboost scikit-learn matplotlib
+jupyter notebook forecasting_model_xboost.ipynb
+```
+Explore forecasting results, evaluation metrics, and trend visualizations.
+
+
 
 # 💻Quick Preview
  Interactive Dashboard — Run with Streamlit<br>
