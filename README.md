@@ -1,4 +1,4 @@
-# 🚀 E-commerce Sales Forecasting & Business Insights Project
+# 🚀 E-commerce Sales Forecasting 
 A comprehensive Data Analytics and Machine Learning project focused on analyzing, visualizing, and forecasting E-commerce sales performance using real-world business data.
 
 # 🌟 Project Deliverables
