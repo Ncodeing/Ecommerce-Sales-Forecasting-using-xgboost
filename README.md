@@ -7,11 +7,13 @@ A comprehensive Data Analytics and Machine Learning project focused on analyzing
 ✅ Standalone Data Visualization HTML Dashboard (No setup required — open in browser)<br>
 ✅ Machine Learning Forecasting Model (XGBoost for Sales Predictions)<br>
 
-# 📁 Included Files
-sales_forecasting_dashboard.py	:  Streamlit Interactive Sales & Profit Dashboard<br>
-sales_forcasting.html	: Business Analysis Notebook (HTML Export)<br>
-sales_forcasting.ipynb : Interactive Data Visualization and EDA<br>
-forecasting_model_xboost.ipynb	Machine Learning Sales Forecasting with XGBoost<br>
+# 🗂️ Project Structure
+
+├── sales_forecasting_dashboard.py # Streamlit dashboard (interactive web app)
+├── sales_forecasting.ipynb # Jupyter Botebook (E-commerce Sales Analysis)
+├── sales_forcasting.html # Exported Jupyter Notebook (HTML version)
+├── forecasting_model_xboost.ipynb # Sales Forecasting using XGBoost (Notebook)
+├── README.md # Project documentation
 
 # 📊 Key Features
   Real-time Filtering by Category, Segment, Region, Date<br>
