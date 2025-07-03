@@ -10,8 +10,8 @@ A comprehensive Data Analytics and Machine Learning project focused on analyzing
 # 🗂️ Project Structure
 
 ├── sales_forecasting_dashboard.py # Streamlit dashboard (interactive web app)<br>
-├── sales_forecasting.ipynb # Jupyter Botebook (E-commerce Sales Analysis)<br>
-├── sales_forcasting.html # Exported Jupyter Notebook (HTML version)<br>
+├── sales_forecasting.ipynb # Jupyter Notebook (E-commerce Sales Analysis)<br>
+├── sales_forcasting.html # Exported Jupyter Notebook (HTML version to clearly show charts)<br>
 ├── forecasting_model_xboost.ipynb # Sales Forecasting using XGBoost (Notebook)<br>
 ├── README.md # Project documentation<br>
 
