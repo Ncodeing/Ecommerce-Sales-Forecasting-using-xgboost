@@ -2,7 +2,7 @@
 A comprehensive Data Analytics and Machine Learning project focused on analyzing, visualizing, and forecasting E-commerce sales performance using real-world business data.
 
 # 🌟 Project Deliverables
-✅ Interactive Sales & Profit Dashboard (Streamlit Web Application)<br>
+✅ Interactive Sales & Profit Dashboard (Tableau as well as Streamlit Web Application)<br>
 ✅ Complete Business Analysis Report (Jupyter Notebook exported as HTML)<br>
 ✅ Standalone Data Visualization HTML Dashboard (No setup required — open in browser)<br>
 ✅ Machine Learning Forecasting Model (XGBoost for Sales Predictions)<br>
@@ -14,7 +14,7 @@ A comprehensive Data Analytics and Machine Learning project focused on analyzing
 ├── sales_forcasting.html # Exported Jupyter Notebook (HTML version to clearly show charts)<br>
 ├── forecasting_model_xboost.ipynb # Sales Forecasting using XGBoost (Notebook)<br>
 ├── README.md # Project documentation<br>
-
+├── Tableau file in notion webite with explanation
 # 📊 Key Features
   Real-time Filtering by Category, Segment, Region, Date<br>
   Business KPIs: Total Sales, Total Profit, Profit Margin<br>
